@@ -1,2 +1,3 @@
 # lauren-learns-python
-dumping ground for personal projects
+
+A space for small python projects to help me learn the language! 
